@@ -13,5 +13,5 @@
 	background-color: #00A500;
 }
 .main-tab input:checked + label {
-	border-color: #00A500
+	border-top-color: #00A500 !important;
 }
