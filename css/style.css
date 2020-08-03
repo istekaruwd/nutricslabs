@@ -9,6 +9,9 @@
     max-width: 100%;
     height: auto;
 }
+#splitter img {
+	height: auto;
+}
 
 a:hover {
     text-decoration: none;
