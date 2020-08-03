@@ -1,0 +1,17 @@
+
+.single-more-item a,
+.single-fdbk i,
+.feedback-hdr .star,
+.single-promo i {
+	color: #AF00FF;
+}
+.main-tab label:hover,
+.sidebar-widget-title,
+.main-tab label,
+.single-product-info-title,
+.hdr-btm {
+	background-color: #AF00FF;
+}
+.main-tab input:checked + label {
+	border-color: #AF00FF
+}

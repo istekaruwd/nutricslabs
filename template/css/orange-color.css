@@ -1,0 +1,17 @@
+
+.single-more-item a,
+.single-fdbk i,
+.feedback-hdr .star,
+.single-promo i {
+	color: #FF9600;
+}
+.main-tab label:hover,
+.sidebar-widget-title,
+.main-tab label,
+.single-product-info-title,
+.hdr-btm {
+	background-color: #FF9600;
+}
+.main-tab input:checked + label {
+	border-color: #FF9600
+}
