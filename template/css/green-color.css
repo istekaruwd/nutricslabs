@@ -1,0 +1,12 @@
+.single-promo i {
+	color: #00A500;
+}
+.sidebar-widget-title,
+.main-tab label,
+.single-product-info-title,
+.hdr-btm {
+	background-color: #00A500;
+}
+.main-tab input:checked + label {
+	border-top-color: #00A500
+}
